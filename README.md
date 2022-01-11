@@ -1,5 +1,3 @@
 -Hii, I'm Abhishek Kumar.
--I'm interested in frontend techonlogies and currently learning new things in these technogoies. 
--I'm currently pursuing diploma in Computer engineering.
--I'm looking for job in frontend development.
--You can contact me on LinkedIn -Abhishek Kumar.
+-I'm interested in frontend. 
+-I'm pursuing Btech from Mait in Computer Science and engineering.-Abhishek Kumar.
