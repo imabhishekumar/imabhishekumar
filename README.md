@@ -6,15 +6,21 @@
 
 ## ✒️ About Me
 
-I'm **Abhishek Kumar** and I'm Pre-final year student at **Maharaja Agrasen Institute of Technology**, pursuing **B.Tech in Computer Science**
+I'm **Abhishek Kumar** and I'm Pre-final year student at **Maharaja Agrasen Institute of Technology**, pursuing **B.Tech in Computer Science**.
+
+<div><br></div>
 
 **- 🔭 I’m currently working on improving my Dev skills**
 
-**- - 🌱 I’m currently learning React Js**
+**- 🌱 I’m currently learning React Js**
 
 **- 👯 I’m looking to collaborate on web2**
 
 **- 📫 How to reach me: [abhi9062k@gmail.com](mailto:abhi9062k@gmail.com?subject=[GitHub])**
+
+<div>
+  <br/>
+</div>
 
 ## 🔗 Socials: 
 
@@ -28,6 +34,9 @@ I'm **Abhishek Kumar** and I'm Pre-final year student at **Maharaja Agrasen Inst
   </a>
 </div>
 
+<div>
+  <br/>
+</div>
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -42,6 +51,9 @@ I'm **Abhishek Kumar** and I'm Pre-final year student at **Maharaja Agrasen Inst
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<div>
+  <br/>
+</div>
 
 ## :fire: My Stats :
 
